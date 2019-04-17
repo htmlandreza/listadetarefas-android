@@ -1,6 +1,5 @@
 package com.andrezamoreira.listadetarefas;
 
-import android.app.AlertDialog;
 import android.content.ContentValues;
 import android.content.DialogInterface;
 import android.database.Cursor;
